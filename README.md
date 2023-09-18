@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @pkpedram
-- 👀 I’m interested in WD, AI and IOT
-- 🌱 I’m currently learning node and react.js
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me @pkpedram on instagram
+Hi, My name is Pedram Keshavarzi
+
+I started programming since the age of 13. I tried many branches of it and lastly chosen web developing, because i see it as a beautiful combination of art and programming. I worked as a freelancer through highschool and was in different teams and projects. Since I graduated highschool i chose developing as a profession and tried to update my self daily to the edge of technology. I recently created a javascript framework called Selph. And I hope one day I can bcome a successful CTO!
 
 <!---
 pkpedram/pkpedram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
