@@ -6,3 +6,5 @@ I started programming since the age of 13. I tried many branches of it and lastl
 pkpedram/pkpedram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pkpedram&show_icons=true&theme=dark"/></p>
